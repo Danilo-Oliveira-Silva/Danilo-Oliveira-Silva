@@ -2,6 +2,7 @@
 #### Olá pessoal
 
 Podem me contatar por: 
+
 [E-mail](mailto:danilo.o.s@hotmail.com)
 
 [Linkedin](https://www.linkedin.com/in/danilo-silva-44518956/)
