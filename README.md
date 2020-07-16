@@ -1,4 +1,4 @@
-[](0.jpg)
+[](https://media-exp1.licdn.com/dms/image/C4E16AQGPLQEnvi8yxQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1600300800&v=beta&t=_JCM9AuvIFFwgqlvfrjb6qIkx9BQnS5PMOgA8GugZ4M)
 #### Olá pessoal
 
 Curtindo demais esse novo recurso do github.
