@@ -1,11 +1,8 @@
 ![](0.jpg)
 #### Olá pessoal
 
-Curtindo demais esse novo recurso do github.
 Podem me contatar por: 
-
 [E-mail](mailto:danilo.o.s@hotmail.com)
-
 [Linkedin](https://www.linkedin.com/in/danilo-silva-44518956/)
 
 ## Sobre
