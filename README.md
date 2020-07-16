@@ -1,3 +1,4 @@
+[](0.jpg)
 #### Olá pessoal
 
 Curtindo demais esse novo recurso do github.
