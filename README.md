@@ -2,7 +2,9 @@
 
 Curtindo demais esse novo recurso do github.
 Podem me contatar por: 
-[danilo.o.s@hotmail.com](mailto:danilo.o.s@hotmail.com)
+
+[E-mail](mailto:danilo.o.s@hotmail.com)
+
 [Linkedin](https://www.linkedin.com/in/danilo-silva-44518956/)
 
 ## Sobre
@@ -34,6 +36,7 @@ Profissional graduado em engenharia de telecom com atuação em desenvolvimento 
 * CST Studio
 
 ## Pesquisando
+
 Alguma hospedagem node.js com certificado SSL e que funcione socket.io.
 
 
