@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá pessoal 👋
 
-<!--
-**Danilo-Oliveira-Silva/Danilo-Oliveira-Silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curtindo demais esse novo recurso do github.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente trabalhando com o desenvolvimento de softwares de despacho e controle de radiocomunicação. 
+- 🌱 Atualmente aprendendo React Native, mas acho que aprendi já
+- 👯 Quero colaborar com sistemas de telecomunicação que melhorem ou substituam o sistema SIP.
+- 🤔 Procurando alguma hospedagem node.js com certificado SSL e que funcione socket.io.
+- 💬 Podem me perguntas sobre
+ * SIP
+ * WebRTC
+ * Node JS
+ * Genexus
+ 
+- 📫 Como me encontrar:
+  danilo.o.s@hotmail.com
