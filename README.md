@@ -13,7 +13,7 @@
 
 ## About Me
 
-<h2>A fullstack developer from Brazil </h2> <img src="https://camo.githubusercontent.com/02dc58658cadffcd8a46c4cc9e4ddcd6b7df5396c0c643d290bbdfaa38f8a934/68747470733a2f2f686174736372697074732e6769746875622e696f2f636972636c652d666c6167732f666c6167732f62722e737667" width="48" data-canonical-src="https://hatscripts.github.io/circle-flags/flags/br.svg" style="max-width: 100%;">
+<h2 style="float:left;">A fullstack developer from Brazil </h2> <img src="https://camo.githubusercontent.com/02dc58658cadffcd8a46c4cc9e4ddcd6b7df5396c0c643d290bbdfaa38f8a934/68747470733a2f2f686174736372697074732e6769746875622e696f2f636972636c652d666c6167732f666c6167732f62722e737667" width="48" data-canonical-src="https://hatscripts.github.io/circle-flags/flags/br.svg" style="max-width: 100%;">
 
   Welcome to my github. I am a Back-end developer with a degree in computer engineering specializing in the development of radiocommunication systems. Experienced in developing back-end software, embedded software and integration with control and telecommunications hardware   including Roip and SIP.
 
