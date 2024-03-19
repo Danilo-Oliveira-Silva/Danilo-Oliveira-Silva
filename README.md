@@ -3,9 +3,9 @@
 
 Podem me contatar por: 
 
-[E-mail](mailto:danilo.o.s@hotmail.com)
-
-[Linkedin](https://www.linkedin.com/in/danilo-silva-44518956/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilodevs/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danilosdev)
+[![email](https://img.shields.io/static/v1?label=&message=E-mail&color=007722&style=for-the-badge&logo=mail.ru)](mailto:danilo.o.s@hotmail.com)
 
 ## Sobre
 
