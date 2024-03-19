@@ -17,12 +17,12 @@
 <table border=0>
   <tr>
     <td style="width:50%">
-      Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado 
-      em engenharia da computação com atuação em desenvolvimento de sistemas
-      de radiocomunicação. Experiente em desenvolvimento de software back-end,
-      software embarcado e de integração com hardwares de 
-      controle e telecomunicação incluindo Roip e SIP.
-
+      Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado <br />
+      em engenharia da computação com atuação em desenvolvimento de sistemas<br />
+      de radiocomunicação. Experiente em desenvolvimento de software back-end,<br />
+      software embarcado e de integração com hardwares de <br />
+      controle e telecomunicação incluindo Roip e SIP.<br />
+<br /><br />
   Game dev de Coração :video_game: 
     </td>
     <td style="width:50%">
