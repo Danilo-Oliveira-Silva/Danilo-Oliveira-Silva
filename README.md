@@ -37,23 +37,3 @@
 * Desenvolvimento Back-end utilizando C# e NodeJS.
 * Encontrando a melhor maneira de ensinar POO.
 
-
-## Aprendendo atualmente
-
-* .NET Maui
-* Phaser (sou um game dev de coração)
-
-
-
-* C#
-* ASP.NET
-* PHP (bons tempos)
-* Node JS
-* Java
-* WebRTC
-* SIP
-* Arduino e Raspberry PI
-* Python
-
-
-  
