@@ -6,14 +6,29 @@
 [![email](https://img.shields.io/static/v1?label=&message=E-mail&color=007722&style=for-the-badge&logo=mail.ru)](mailto:danilo.o.s@hotmail.com)
 
 
-Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado em engenharia da computação com atuação em desenvolvimento de sistemas de radiocomunicação. Experiente em desenvolvimento de software back-end, software embarcado e de integração com hardwares de controle e telecomunicação incluindo Roip e SIP.
 
-Game dev de Coração :video_game:
 
 ## Linguagens e tecnologias :heart:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,js,nodejs,php,py,ts)](https://github.com/Danilo-Oliveira-Silva)
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,azure,docker,dotnet,rabbitmq,reacteclipse,express,androidstudio,grafana,matlab,arduino,prometheus,threejs)](https://github.com/Danilo-Oliveira-Silva)
+
+
+<table border=0>
+  <tr>
+    <td>
+      Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado em engenharia da computação com atuação em desenvolvimento de sistemas de radiocomunicação. Experiente em desenvolvimento de software back-end, software embarcado e de integração com hardwares de     controle e telecomunicação incluindo Roip e SIP.
+
+Game dev de Coração :video_game:
+    </td>
+    <td>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
+
+
+    </td>
+  </tr>
+</table>
+
 
 ## Trabalhando atualmente
 
@@ -37,8 +52,6 @@ Game dev de Coração :video_game:
 * SIP
 * Arduino e Raspberry PI
 * Python
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
 
 
   
