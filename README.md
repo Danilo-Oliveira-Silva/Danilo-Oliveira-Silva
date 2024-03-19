@@ -25,7 +25,7 @@
 
   Game dev de Coração :video_game: 
     </td>
-    <td>
+    <td style="width:300px;">
       
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
   </tr>
