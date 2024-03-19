@@ -23,7 +23,7 @@
       software embarcado e de integração com hardwares de 
       controle e telecomunicação incluindo Roip e SIP.
 
-      Game dev de Coração :video_game: 
+  Game dev de Coração :video_game: 
     </td>
     <td style="width:50%">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
