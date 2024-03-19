@@ -14,7 +14,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,azure,docker,dotnet,rabbitmq,react,eclipse,androidstudio,grafana,matlab,arduino,prometheus,threejs)](https://github.com/Danilo-Oliveira-Silva)
 
 
-<table border=0 style="border-color:gray">
+<table border=0 style="border-color:black">
   <tr>
     <td style="width:200px;">
       Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado <br />
