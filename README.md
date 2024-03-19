@@ -10,9 +10,10 @@ Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado em engenhari
 
 Game dev de Coração
 
-## Linguagens e tecnologias do coração
+## Linguagens e tecnologias :heart:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,arduino,azure,docker,dotnet,eclipse,express,androidstudio,grafana,java,js,matlab,mongodb,mysql,nodejs,php,postgres,py,prometheus,rabbitmq,react,threejs,ts)](https://github.com/Danilo-Oliveira-Silva)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,js,nodejs,php,py,ts)](https://github.com/Danilo-Oliveira-Silva)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,azure,docker,dotnet,rabbitmq,reacteclipse,express,androidstudio,grafana,matlab,arduino,prometheus,threejs)](https://github.com/Danilo-Oliveira-Silva)
 
 ## Trabalhando atualmente
 
