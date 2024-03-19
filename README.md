@@ -10,6 +10,10 @@ Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado em engenhari
 
 Game dev de Coração
 
+## Linguagens e tecnologias do coração
+
+[![My Skills](https://skillicons.dev/icons?i=cs,arduino,azure,docker,dotnet,eclipse,express,androidstudio,grafana,java,js,matlab,mongodb,mysql,nodejs,php,postgres,py,prometheus,rabbitmq,react,threejs,ts)](https://github.com/Danilo-Oliveira-Silva)
+
 ## Trabalhando atualmente
 
 * Desenvolvimento Back-end utilizando C# e NodeJS.
@@ -21,7 +25,7 @@ Game dev de Coração
 * .NET Maui
 * Phaser (sou um game dev de coração)
 
-## Linguagens e tecnologias do coração
+
 
 * C#
 * ASP.NET
