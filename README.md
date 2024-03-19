@@ -5,9 +5,10 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danilosdev)
 [![email](https://img.shields.io/static/v1?label=&message=E-mail&color=007722&style=for-the-badge&logo=mail.ru)](mailto:danilo.o.s@hotmail.com)
 
-## Sobre
 
-Profissional graduado em engenharia da computação com atuação em desenvolvimento de sistemas de radiocomunicação. Experiente em desenvolvimento de software back-end, software embarcado e de integração com hardwares de controle e telecomunicação incluindo Roip e SIP.
+Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado em engenharia da computação com atuação em desenvolvimento de sistemas de radiocomunicação. Experiente em desenvolvimento de software back-end, software embarcado e de integração com hardwares de controle e telecomunicação incluindo Roip e SIP.
+
+Game dev de Coração
 
 ## Trabalhando atualmente
 
