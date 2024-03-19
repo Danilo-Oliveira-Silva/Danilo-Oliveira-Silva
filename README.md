@@ -1,18 +1,17 @@
 ![](banner-github.jpg)
-# Olá, eu sou o Danilo 👋
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilodevs/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/danilosdev)
 [![email](https://img.shields.io/static/v1?label=&message=E-mail&color=007722&style=for-the-badge&logo=mail.ru)](mailto:danilo.o.s@hotmail.com)
+[![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/danilosilva)
 
 
-
-
-## Linguagens e tecnologias :heart:
+## Things I code with :heart:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,js,nodejs,php,py,ts)](https://github.com/Danilo-Oliveira-Silva)
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,azure,docker,dotnet,rabbitmq,react,eclipse,androidstudio,grafana,matlab,arduino,prometheus,threejs)](https://github.com/Danilo-Oliveira-Silva)
 
+## About Me
 
   Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado 
   em engenharia da computação com atuação em desenvolvimento de sistemas
@@ -26,12 +25,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
 
 
-## Trabalhando atualmente :hammer_and_wrench:	
+## I’m currently working with :hammer_and_wrench:	
 
-* Desenvolvimento Back-end utilizando C# e NodeJS.
-* Encontrando a melhor maneira de ensinar POO.
+* Back-end coding with C# and NodeJS.
+* Finding the best way to teach OOP
 
-## Meus últimos artigos :books:
+## Latest Blog Posts :books:
 
 
 <table>
