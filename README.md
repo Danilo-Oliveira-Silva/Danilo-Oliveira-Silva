@@ -14,22 +14,16 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,azure,docker,dotnet,rabbitmq,react,eclipse,androidstudio,grafana,matlab,arduino,prometheus,threejs)](https://github.com/Danilo-Oliveira-Silva)
 
 
-<table border=0 style="border-color:black">
-  <tr>
-    <td style="width:200px;">
-      Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado <br />
-      em engenharia da computação com atuação em desenvolvimento de sistemas<br />
-      de radiocomunicação. Experiente em desenvolvimento de software back-end,<br />
-      software embarcado e de integração com hardwares de <br />
-      controle e telecomunicação incluindo Roip e SIP.<br />
+  Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado 
+  em engenharia da computação com atuação em desenvolvimento de sistemas
+  de radiocomunicação. Experiente em desenvolvimento de software back-end,
+  software embarcado e de integração com hardwares de 
+  controle e telecomunicação incluindo Roip e SIP.
 
   Game dev de Coração :video_game: 
-    </td>
-    <td style="width:300px;">
-      
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
-  </tr>
-</table>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
 
 
 ## Trabalhando atualmente :hammer_and_wrench:	
