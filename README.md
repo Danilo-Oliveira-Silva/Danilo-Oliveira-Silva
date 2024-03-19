@@ -39,9 +39,19 @@
 
 ## Meus últimos artigos
 
+
 <table>
   <tr>
     <td><img width=250 src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foo7wtn75zm00jb5r2of1.jpg" /></td>
-    <td>ASP.NET Core - Load Balancing com Nginx e Docker</td>
+    <td><a href="https://dev.to/danilosilva/aspnet-core-load-balancing-com-nginx-e-docker-3m2e">ASP.NET Core - Load Balancing com Nginx e Docker</a></td>
+  </tr>
+  <tr>
+    <td><img width=250 src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fikdexostnlb5jnbqmazv.png" /></td>
+    <td><a href="https://dev.to/danilosilva/design-patterns-factory-primeiros-passos-com-typescript-17ga">Design Patterns: Factory - Primeiros passos com Typescript</a></td>
+  </tr>
+
+   <tr>
+    <td><img width=250 src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz97emthjy62i8bep1n2b.jpg" /></td>
+    <td><a href="https://dev.to/danilosilva/socketio-primeiros-passos-4j63">Socket.IO - Primeiros passos</a></td>
   </tr>
 </table>
