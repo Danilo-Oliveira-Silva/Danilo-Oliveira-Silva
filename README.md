@@ -34,9 +34,7 @@ Profissional graduado em engenharia da computação com atuação em desenvolvim
 * Arduino e Raspberry PI
 * Python
 
-[![Danilo´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Danilo-Oliveira-Silva&show_icons=true&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact)](https://github.com/Danilo-Oliveira-Silva)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
 
 
   
