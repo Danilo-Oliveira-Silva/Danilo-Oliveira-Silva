@@ -6,14 +6,14 @@
 [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/danilosilva)
 
 
-## Things I code with :heart:
+# Things I code with :heart:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,js,nodejs,php,py,ts)](https://github.com/Danilo-Oliveira-Silva)
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,azure,docker,dotnet,rabbitmq,react,eclipse,androidstudio,grafana,matlab,arduino,prometheus,threejs)](https://github.com/Danilo-Oliveira-Silva)
 
-## About Me
+# About Me
 
-<p style="float:left;">A fullstack developer from Brazil </p> <img src="https://camo.githubusercontent.com/02dc58658cadffcd8a46c4cc9e4ddcd6b7df5396c0c643d290bbdfaa38f8a934/68747470733a2f2f686174736372697074732e6769746875622e696f2f636972636c652d666c6167732f666c6167732f62722e737667" width="48" data-canonical-src="https://hatscripts.github.io/circle-flags/flags/br.svg" style="max-width: 100%;">
+## A fullstack developer from Brazil 🇧🇷
 
   Welcome to my github. I am a Back-end developer with a degree in computer engineering specializing in the development of radiocommunication systems. Experienced in developing back-end software, embedded software and integration with control and telecommunications hardware   including Roip and SIP.
 
@@ -23,12 +23,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
 
 
-## I’m currently working with :hammer_and_wrench:	
+# I’m currently working with :hammer_and_wrench:	
 
 * Back-end coding with C# and NodeJS.
 * Finding the best way to teach OOP
 
-## Latest Blog Posts :books:
+# Latest Blog Posts :books:
 
 
 <table>
