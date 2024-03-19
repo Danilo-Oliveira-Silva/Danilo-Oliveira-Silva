@@ -9,35 +9,31 @@ Podem me contatar por:
 
 ## Sobre
 
-Profissional graduado em engenharia de telecom com atuação em desenvolvimento de sistemas de radiocomunicação. Experiente em desenvolvimento de software embarcado e de integração com hardwares de controle e telecomunicação incluindo Roip e SIP.
+Profissional graduado em engenharia da computação com atuação em desenvolvimento de sistemas de radiocomunicação. Experiente em desenvolvimento de software back-end, software embarcado e de integração com hardwares de controle e telecomunicação incluindo Roip e SIP.
 
 ## Trabalhando atualmente
 
-* No desenvolvimento de softwares de despacho e controle de radiocomunicação, utilizando em alguns casos o protocolo SIP e as vezes com um protocolo próprio enviando streams de áudios amostrados e transmitidos direto no código (liberdade de desenvolvimento)
-* No desenvolvimento de uma central de despacho com um dashboard responsivo.
-* No desenvolvimento de aplicações mobiles integradas a sistemas de radiocomunicação.
+* Desenvolvimento Back-end utilizando C# e NodeJS.
+* Encontrando a melhor maneira de ensinar POO.
 
 
 ## Aprendendo atualmente
 
-* React JS
-* React Native
-* After effects (acho divertido)
+* .NET Maui
+* Phaser (sou um game dev de coração)
 
 ## Linguagens e tecnologias do coração
 
 * C#
-* PHP
+* ASP.NET
+* PHP (bons tempos)
 * Node JS
+* Java
 * WebRTC
 * SIP
 * Arduino e Raspberry PI
 * Python
-* CST Studio
 
-## Pesquisando
-
-Alguma hospedagem node.js com certificado SSL e que funcione socket.io.
 
 
   
