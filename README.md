@@ -17,9 +17,13 @@
 <table border=0>
   <tr>
     <td style="width:50%">
-      Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado em engenharia da computação com atuação em desenvolvimento de sistemas de radiocomunicação. Experiente em desenvolvimento de software back-end, software embarcado e de integração com hardwares de     controle e telecomunicação incluindo Roip e SIP.
+      Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado 
+      em engenharia da computação com atuação em desenvolvimento de sistemas
+      de radiocomunicação. Experiente em desenvolvimento de software back-end,
+      software embarcado e de integração com hardwares de 
+      controle e telecomunicação incluindo Roip e SIP.
 
-Game dev de Coração :video_game:
+      Game dev de Coração :video_game: 
     </td>
     <td style="width:50%">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
