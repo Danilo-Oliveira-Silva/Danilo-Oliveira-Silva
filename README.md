@@ -8,7 +8,7 @@
 
 Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado em engenharia da computação com atuação em desenvolvimento de sistemas de radiocomunicação. Experiente em desenvolvimento de software back-end, software embarcado e de integração com hardwares de controle e telecomunicação incluindo Roip e SIP.
 
-Game dev de Coração
+Game dev de Coração :video_game:
 
 ## Linguagens e tecnologias :heart:
 
