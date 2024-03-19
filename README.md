@@ -11,12 +11,12 @@
 ## Linguagens e tecnologias :heart:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,cpp,java,js,nodejs,php,py,ts)](https://github.com/Danilo-Oliveira-Silva)
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,azure,docker,dotnet,rabbitmq,react,eclipse,express,androidstudio,grafana,matlab,arduino,prometheus,threejs)](https://github.com/Danilo-Oliveira-Silva)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres,azure,docker,dotnet,rabbitmq,react,eclipse,androidstudio,grafana,matlab,arduino,prometheus,threejs)](https://github.com/Danilo-Oliveira-Silva)
 
 
 <table border=0>
   <tr>
-    <td style="width:300px;">
+    <td style="width:200px;">
       Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado <br />
       em engenharia da computação com atuação em desenvolvimento de sistemas<br />
       de radiocomunicação. Experiente em desenvolvimento de software back-end,<br />
