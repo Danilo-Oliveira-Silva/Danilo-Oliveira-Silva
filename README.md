@@ -32,8 +32,16 @@
 </table>
 
 
-## Trabalhando atualmente
+## Trabalhando atualmente :hammer_and_wrench:	
 
 * Desenvolvimento Back-end utilizando C# e NodeJS.
 * Encontrando a melhor maneira de ensinar POO.
 
+## Meus últimos artigos
+
+<table>
+  <tr>
+    <td><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Foo7wtn75zm00jb5r2of1.jpg" /></td>
+    <td>ASP.NET Core - Load Balancing com Nginx e Docker</td>
+  </tr>
+</table>
