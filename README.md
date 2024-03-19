@@ -13,6 +13,8 @@
 
 ## About Me
 
+<h2>A fullstack developer from Brazil </h2><img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="48">
+
   Welcome to my github. I am a Back-end developer with a degree in computer engineering specializing in the development of radiocommunication systems. Experienced in developing back-end software, embedded software and integration with control and telecommunications hardware   including Roip and SIP.
 
   Game dev :video_game: 
