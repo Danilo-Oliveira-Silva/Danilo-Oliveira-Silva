@@ -13,13 +13,9 @@
 
 ## About Me
 
-  Bem vindos ao meu perfil. Eu sou um desenvolvedor Back-end graduado 
-  em engenharia da computação com atuação em desenvolvimento de sistemas
-  de radiocomunicação. Experiente em desenvolvimento de software back-end,
-  software embarcado e de integração com hardwares de 
-  controle e telecomunicação incluindo Roip e SIP.
+  Welcome to my github. I am a Back-end developer with a degree in computer engineering specializing in the development of radiocommunication systems. Experienced in developing back-end software, embedded software and integration with control and telecommunications hardware   including Roip and SIP.
 
-  Game dev de Coração :video_game: 
+  Game dev :video_game: 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danilo-Oliveira-Silva&layout=compact&theme=algolia)](https://github.com/Danilo-Oliveira-Silva)
