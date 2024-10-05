@@ -3,8 +3,8 @@
 # A fullstack developer from Brazil 🇧🇷
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilodevs/)
-[![website](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.iamdanilo.com/)
-[![bluesky](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/danilodev.bsky.social)
+[![website](https://img.shields.io/badge/website-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.iamdanilo.com/)
+[![bluesky](https://img.shields.io/badge/bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/danilodev.bsky.social)
 [![email](https://img.shields.io/static/v1?label=&message=E-mail&color=007722&style=for-the-badge&logo=mail.ru)](mailto:danilo.o.s@hotmail.com)
 [![devto](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/danilosilva)
 
